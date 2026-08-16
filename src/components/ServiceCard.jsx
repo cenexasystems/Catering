@@ -8,7 +8,7 @@ export default function ServiceCard({ service, onOpenDetails, t }) {
       <div className={styles.imageWrapper}>
         <img 
           src={service.image} 
-          alt={service.title} 
+          alt={service.imageAlt || `${service.title} - Sri Sankaraa Catering Services Chennai`} 
           className={styles.cardImage} 
           loading="lazy"
         />

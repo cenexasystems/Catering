@@ -15,11 +15,11 @@ const translations = {
     bookNow: "Book a Consultation",
 
     // Hero
-    heroBadge: "Premium Catering Services · Chennai",
-    heroTitle1: "Crafting",
-    heroTitle2: "divine feasts",
-    heroTitle3: "for you.",
-    heroDesc: "Transforming every celebration into an unforgettable culinary journey, blessed with authentic flavours and pristine service.",
+    heroBadge: "FSSAI Certified Premium Catering · Ambattur, Chennai",
+    heroTitle1: "Crafting Divine Feasts",
+    heroTitle2: "for Your Celebrations —",
+    heroTitle3: "Premium Catering in Chennai",
+    heroDesc: "Transforming every celebration into an unforgettable culinary journey. Premium wedding, corporate & traditional South Indian Sadhya catering in Chennai since 2009.",
     heroCta1: "Begin Your Journey",
     heroCta2: "Explore Menus",
     statLegacy: "YEARS OF LEGACY",
@@ -69,7 +69,7 @@ const translations = {
     statEvents: "Events Catered",
     statCities: "Cities Served",
     statClients: "Happy Clients",
-    aboutStory: "With over 15 years of experience in the culinary arts, Sri Sankaraa Catering is dedicated to providing extraordinary food and service. Our chefs craft dishes using the freshest ingredients to ensure an unforgettable dining experience, keeping traditions alive with a modern touch.",
+    aboutStory: "With over 15 years of legacy since 2009, Sri Sankaraa Catering Services is dedicated to providing extraordinary food and service. Serving Ambattur, Chennai and surrounding areas across Tamil Nadu, our master chefs craft traditional South Indian Sadhya, grand multi-cuisine buffets, and live counters using fresh, FSSAI-certified ingredients.",
 
     // Services Section
     servicesTitle: "Our Catering Packages & Menus",
@@ -259,11 +259,11 @@ const translations = {
     bookNow: "முன்பதிவு",
 
     // Hero
-    heroBadge: "உயர்தர கேட்டரிங் சேவைகள் · சென்னை",
-    heroTitle1: "உங்களுக்காக",
+    heroBadge: "FSSAI சான்றளிக்கப்பட்ட உயர்தர கேட்டரிங் · அம்பத்தூர், சென்னை",
+    heroTitle1: "உங்கள் கொண்டாட்டங்களுக்கு",
     heroTitle2: "தெய்வீக விருந்துகளை",
-    heroTitle3: "உருவாக்குகிறோம்.",
-    heroDesc: "உங்கள் ஒவ்வொரு கொண்டாட்டத்தையும் உண்மையான சுவை மற்றும் சேவையுடன் மறக்க முடியாத சமையல் பயணமாக மாற்றுகிறோம்.",
+    heroTitle3: "உருவாக்குகிறோம் — சென்னை",
+    heroDesc: "2009 முதல் சென்னையின் மிகச்சிறந்த திருமண கேட்டரிங், கார்ப்பரேட் மற்றும் பாரம்பரிய வாழையிலை விருந்து சேவைகள்.",
     heroCta1: "முன்பதிவு செய்ய",
     heroCta2: "சேவைகளை பார்க்க",
     statLegacy: "ஆண்டுகள் பாரம்பரியம்",
@@ -313,7 +313,7 @@ const translations = {
     statEvents: "நிகழ்வுகள்",
     statCities: "நகரங்களில்",
     statClients: "மகிழ்ச்சியான வாடிக்கையாளர்கள்",
-    aboutStory: "15 ஆண்டுகளுக்கும் மேலான சமையல் அனுபவத்துடன், ஸ்ரீ சங்கராஆ கேட்டரிங் சிறந்த உணவு மற்றும் சேவையை வழங்க அர்ப்பணித்துள்ளது. எங்கள் சமையல்காரர்கள் புதிய பொருட்களைப் பயன்படுத்தி உணவுகளை தயார் செய்கிறார்கள்.",
+    aboutStory: "2009 முதல் 15 ஆண்டுகளுக்கும் மேலான சமையல் பாரம்பரியத்துடன், ஸ்ரீ சங்கராஆ கேட்டரிங் சர்வீசஸ் அம்பத்தூர், சென்னை மற்றும் தமிழ்நாடு முழுவதும் சிறந்த உணவு மற்றும் உபசரிப்பை வழங்குகிறது. புதிய FSSAI சான்றளிக்கப்பட்ட பொருட்களைக் கொண்டு பாரம்பரிய வாழையிலை விருந்து, மல்டி-க்விசின் பஃபே மற்றும் லைவ் கவுண்டர்களை வழங்குகிறோம்.",
 
     // Services Section
     servicesTitle: "எங்கள் கேட்டரிங் மெனுக்கள்",

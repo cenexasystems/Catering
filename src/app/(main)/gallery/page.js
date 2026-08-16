@@ -78,7 +78,12 @@ export default function FullGalleryPage() {
                   className={styles.cardItem}
                   onClick={() => setSelectedImage(img)}
                 >
-                  <img src={img.src} alt={img.title || 'Gallery image'} className={styles.cardImg} loading="lazy" />
+                  <img 
+                    src={img.src} 
+                    alt={`${img.title || 'Traditional South Indian Catering Feast'} - Sri Sankaraa Catering Services Chennai`} 
+                    className={styles.cardImg} 
+                    loading="lazy" 
+                  />
                   
                   {/* Clean Hover Overlay with Zoom Icon */}
                   <div className={styles.overlay}>

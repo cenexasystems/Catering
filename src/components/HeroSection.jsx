@@ -167,7 +167,7 @@ export default function HeroSection() {
             <motion.img 
               layoutId="deity-image"
               src="/deity.png" 
-              alt="Divine Blessing" 
+              alt="Sri Sankaraa Catering Services - Traditional Divine Blessings Icon" 
               className={styles.deityImage}
               whileHover={{ scale: 1.05, filter: "drop-shadow(0 40px 80px rgba(0,0,0,0.15))" }}
               transition={{ layout: { duration: 0.85, ease: [0.77, 0, 0.175, 1] }, duration: 0.4 }}

@@ -95,9 +95,9 @@ export default function FoodHighlightSection() {
           transition={{ duration: 0.6 }}
         >
           <div className={styles.bannerImages}>
-            <img src="/gallery/south_indian_meals_1785684185063.png" alt="South Indian" />
-            <img src="/gallery/dessert_platter_1785684210041.png" alt="Desserts" />
-            <img src="/gallery/live_counter_1785684260521.png" alt="Live Counter" />
+            <img src="/gallery/south_indian_meals_1785684185063.png" alt="South Indian banana leaf Sadhya meals catered by Sri Sankaraa Catering Services Chennai" />
+            <img src="/gallery/dessert_platter_1785684210041.png" alt="Royal South Indian dessert platter spread in Chennai by Sri Sankaraa Catering" />
+            <img src="/gallery/live_counter_1785684260521.png" alt="Live counter catering service setup in Ambattur Chennai" />
           </div>
           <div className={styles.bannerText}>
             <h3>{t('customMenusTitle')}</h3>

@@ -68,7 +68,12 @@ export default function GallerySection() {
                 transition={{ delay: index * 0.06, duration: 0.4 }}
                 onClick={() => setSelectedImage(img)}
               >
-                <img src={img.src} alt={img.title || 'Gallery image'} loading="lazy" className={styles.image} />
+                <img 
+                  src={img.src} 
+                  alt={`${img.title || 'South Indian Catering Feast'} - Sri Sankaraa Catering Services Chennai`} 
+                  loading="lazy" 
+                  className={styles.image} 
+                />
                 
                 {/* Clean Hover Overlay with Zoom Icon */}
                 <div className={styles.overlay}>

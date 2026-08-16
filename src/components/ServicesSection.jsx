@@ -234,6 +234,7 @@ export default function ServicesSection() {
       desc: t('service2Desc'), 
       included: t('service2Included'), 
       image: '/gallery/wedding_catering.png',
+      imageAlt: 'Sri Sankaraa Brahmin Wedding Catering Menu Booklet Chennai',
       pdfUrl: '/brochures/Sankara Catering Brahmin A5 Catering Booklet  2024.pdf'
     },
     { 
@@ -242,6 +243,7 @@ export default function ServicesSection() {
       desc: t('service3Desc'), 
       included: t('service3Included'), 
       image: '/gallery/live_counter_1785684260521.png',
+      imageAlt: 'Live Counter Catering & Multi-Day Reception Feast Chennai',
       pdfUrl: '/brochures/Sankaraa Catering Sky Blue Four folding Menu List.pdf'
     },
     { 
@@ -250,6 +252,7 @@ export default function ServicesSection() {
       desc: t('service4Desc'), 
       included: t('service4Included'), 
       image: '/gallery/corporate_catering.png',
+      imageAlt: 'Corporate Event Catering & Executive Buffet Service Ambattur Chennai',
       pdfUrl: '/brochures/Sankara Catering A5 Catering Booklet.pdf'
     },
     { 
@@ -258,6 +261,7 @@ export default function ServicesSection() {
       desc: t('service5Desc'), 
       included: t('service5Included'), 
       image: '/gallery/dessert_platter_1785684210041.png',
+      imageAlt: 'Grand Dessert Spreads & Traditional Sweets Catering Chennai',
       pdfUrl: '/brochures/Sankara Catering  Menu.pdf'
     },
     { 
@@ -266,6 +270,7 @@ export default function ServicesSection() {
       desc: t('service6Desc'), 
       included: t('service6Included'), 
       image: '/gallery/wedding_catering.png',
+      imageAlt: 'South Indian Sadhya & Banana Leaf Meal Catering Services Chennai',
       pdfUrl: '/brochures/Sankaraa Catering Sky Blue sheet Menu Card.pdf'
     },
   ];
