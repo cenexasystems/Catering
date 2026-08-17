@@ -76,8 +76,10 @@ export default function HeroSection() {
               </>
             ) : (
               <>
-                {t('heroTitle1')} <br />
-                {t('heroTitle2')} <span className={styles.highlight}>{t('heroTitle3')}</span>
+                Crafting <br />
+                divine <br />
+                feasts <span className={styles.highlight}>for</span> <br />
+                <span className={styles.highlight}>you.</span>
               </>
             )}
           </motion.h1>

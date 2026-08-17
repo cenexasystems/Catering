@@ -8,14 +8,13 @@ import { useBooking } from '../context/BookingContext';
 import styles from './Header.module.css';
 
 const TICKER_ITEMS = [
-  '🍛 South Indian Sadhya',
-  '💍 Wedding Catering',
-  '🏢 Corporate Events',
-  '🎂 Birthday Parties',
-  '🍲 Live Counters',
-  '🌿 Fresh Every Day',
-  '⭐ 4.9 Rated Service',
-  '✅ FSSAI Certified',
+  '🍛 SOUTH INDIAN SADHYA',
+  '💍 WEDDING CATERING',
+  '🏢 CORPORATE EVENTS',
+  '🎂 BIRTHDAY PARTIES',
+  '🍲 LIVE COUNTERS',
+  '🌿 FRESH EVERY DAY',
+  '⭐ 4.9 RATED SERVICE',
 ];
 
 export default function Header() {

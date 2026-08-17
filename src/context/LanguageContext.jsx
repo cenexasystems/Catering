@@ -15,11 +15,11 @@ const translations = {
     bookNow: "Book a Consultation",
 
     // Hero
-    heroBadge: "FSSAI Certified Premium Catering · Ambattur, Chennai",
+    heroBadge: "Premium Catering Services · Chennai",
     heroTitle1: "Crafting Divine Feasts",
     heroTitle2: "for Your Celebrations —",
     heroTitle3: "Premium Catering in Chennai",
-    heroDesc: "Transforming every celebration into an unforgettable culinary journey. Premium wedding, corporate & traditional South Indian Sadhya catering in Chennai since 2009.",
+    heroDesc: "Transforming every celebration into an unforgettable culinary journey, blessed with authentic flavours and pristine service.",
     heroCta1: "Begin Your Journey",
     heroCta2: "Explore Menus",
     statLegacy: "YEARS OF LEGACY",

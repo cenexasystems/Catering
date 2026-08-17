@@ -70,14 +70,14 @@
 /* ===== MAIN HERO ===== */
 .heroContent {
   flex: 1;
-  max-width: 1280px;
+  max-width: 1320px;
   width: 100%;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1.05fr 0.95fr;
   align-items: center;
-  gap: 4rem;
-  padding: 9rem 4rem 4rem;
+  gap: 3.5rem;
+  padding: 8.5rem 3.5rem 3rem;
   /* extra top for ticker + header */
 }
 
@@ -94,14 +94,15 @@
   gap: 0.5rem;
   background-color: #eff6ff;
   color: var(--color-blue);
-  padding: 0.45rem 1.1rem;
+  padding: 0.4rem 1rem;
   border-radius: 999px;
   font-size: 0.78rem;
   font-weight: 700;
-  letter-spacing: 0.04em;
-  margin-bottom: 2rem;
+  letter-spacing: 0.03em;
+  margin-bottom: 1.5rem;
   width: fit-content;
-  border: 1px solid rgba(13, 110, 253, 0.15);
+  border: 1px solid rgba(13, 110, 253, 0.2);
+  box-shadow: 0 2px 8px rgba(13, 110, 253, 0.08);
 }
 
 .badgeDot {
@@ -114,7 +115,6 @@
 }
 
 @keyframes pulse {
-
   0%,
   100% {
     opacity: 1;
@@ -128,17 +128,17 @@
 }
 
 .heroTitle {
-  font-size: 5.5rem;
+  font-size: clamp(3.8rem, 5.2vw, 5.2rem);
   font-weight: 900;
-  line-height: 1;
-  letter-spacing: -0.03em;
+  line-height: 1.0;
+  letter-spacing: -0.035em;
   color: var(--color-black);
   margin-bottom: 1.25rem;
 }
 
 :global(html.tamil-mode) .heroTitle {
-font-size: 3.6rem;
-  line-height: 1.18;
+  font-size: 3.4rem;
+  line-height: 1.15;
   letter-spacing: 0;
 }
 
@@ -147,11 +147,11 @@ font-size: 3.6rem;
 }
 
 .heroDescription {
-  font-size: 1.05rem;
-  line-height: 1.7;
+  font-size: 0.98rem;
+  line-height: 1.65;
   color: var(--color-text-light);
   margin-bottom: 2rem;
-  max-width: 480px;
+  max-width: 500px;
 }
 
 /* ===== INTERACTIVE SPECIALTY SHOWCASE WIDGET ===== */
@@ -438,7 +438,7 @@ font-size: 3.6rem;
 .deityFrame {
   position: relative;
   width: 100%;
-  max-width: 480px;
+  max-width: 560px;
   display: flex;
   align-items: center;
   justify-content: center;
