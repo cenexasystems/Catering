@@ -1,6 +1,7 @@
 .gallerySection {
   padding: 5rem 2rem;
   background-color: var(--color-white);
+  scroll-margin-top: 110px;
 }
 
 .container {

@@ -53,7 +53,7 @@ const SERVING_STEPS = [
       { name: { en: 'Poosani Mor Kuzhambu', ta: 'பூசணி மோர்குழம்பு' }, icon: '🥣', desc: { en: 'Spiced yogurt gravy cooked with ash gourd / white pumpkin.', ta: 'பூசணிக்காய் சேர்த்த சுவையான மோர்குழம்பு.' } },
       { name: { en: 'Avial & Potato Kara Kari', ta: 'அவியல் & உருளை காரக்கறி' }, icon: '🥦', desc: { en: 'Mixed vegetable coconut Avial & spicy roasted Potato Kari.', ta: 'பாரம்பரிய அவியல் மற்றும் உருளை காரக்கறி.' } },
       { name: { en: 'Beans Usili', ta: 'பீன்ஸ் உசிலி' }, icon: '🫛', desc: { en: 'Lentil crumbled vegetable Beans Usili.', ta: 'சுவையான பீன்ஸ் உசிலி.' } },
-      { name: { en: 'Puliogare', ta: 'புளியோதரை' }, icon: '🥘', desc: { en: 'Authentic temple-style tangy tamarind rice.', ta: 'கோவில் பாணி சுவையான புளியோதரை.' } }
+      { name: { en: 'Puliyogare', ta: 'புளியோதரை' }, icon: '🥘', desc: { en: 'Authentic temple-style tangy tamarind rice.', ta: 'கோவில் பாணி சுவையான புளியோதரை.' } }
     ],
     heritageTip: {
       en: 'The main course is served sequentially: Paruppu & Ghee first, followed by Vendaikkai Sambar, then Poosani Mor Kuzhambu, accompanied by Avial and Usili.',

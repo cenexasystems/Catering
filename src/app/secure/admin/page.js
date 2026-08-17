@@ -213,8 +213,8 @@ export default function AdminPage() {
   // Fill up to 20 slots for gallery
   const gallerySlots = Array.from({ length: 20 }, (_, i) => galleryItems[i] || null);
   
-  // Fill up to 7 slots for video
-  const videoSlots = Array.from({ length: 7 }, (_, i) => videoItems[i] || null);
+  // Fill up to 6 slots for video
+  const videoSlots = Array.from({ length: 6 }, (_, i) => videoItems[i] || null);
 
   return (
     <div className={styles.adminWrap}>
@@ -346,7 +346,7 @@ export default function AdminPage() {
               </div>
               <div>
                 <h2 className={styles.sectionHeading}>Video Showcase Manager</h2>
-                <p className={styles.sectionSub}>Upload up to 7 videos to be displayed in the horizontal showcase section. Use vertical/portrait (9:16) videos for best results!</p>
+                <p className={styles.sectionSub}>Upload up to 6 videos to be displayed in the horizontal showcase section. Use vertical/portrait (9:16) videos for best results!</p>
               </div>
             </div>
 
